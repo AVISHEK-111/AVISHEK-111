@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishek-111&label=Profile%20views&color=0e75b6&style=flat" alt="avishek-111" /> </p>
 
-- 🌱 I’m currently learning **Reinforcement Learning frameworks 🤖🧠🇦🇮👾**
+- 🌱 I’m currently learning **Generative AI frameworks 🤖🧠🇦🇮👾**
 
 - 📫 How to reach me **avishek.poudel.7777@gmail.com**
 
